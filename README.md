@@ -1,45 +1,50 @@
 # 👋 Hi, I’m Ritesh Naik
 
-Welcome to my GitHub! I’m a passionate **Data Engineer** and **Java Backend Developer** with a strong interest in working with modern technologies and solving real-world problems.
+Welcome to my GitHub! I’m a trained **Data Engineer** with hands-on experience building scalable, cloud-native data pipelines on **Google Cloud Platform (GCP)**. Passionate about solving real-world data problems and continuously exploring new technologies.
+
+---
 
 ## 🔍 About Me
 
-- 👀 I’m interested in **Java**, **Spring Boot**, **backend development**, and **Data Engineering**.
-- 🌱 I’m currently learning **Javalin**, **React.js**, and diving deeper into advanced **Spring Boot** and **Data Engineering** tools.
-- 💞️ I’m open to collaboration on **real-world Java** and **Spring Boot** projects, as well as **Data Engineering** projects utilizing **Hadoop**, **Hive**, **PySpark**, **Google BigQuery**, and more.
-- 📫 How to reach me: [naikritesh4312@gmail.com](mailto:naikritesh4312@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend more time debugging than writing code, but that's what makes it fun!
+- 💻 Experienced in working with tools like **BigQuery**, **Apache Beam**, **Cloud Composer**, and **Pub/Sub**.
+- 📊 Skilled in **data processing**, **ETL development**, **data modeling**, and **visualization**.
+- 🎓 Holds a Bachelor's degree in **Electrical & Computer Engineering**.
+- 📫 Reach me at: [naikritesh4312@gmail.com](mailto:naikritesh4312@gmail.com)
 
-## 🛠️ Current Skills
+---
 
-### **Programming Languages & Frameworks**
-- **Java** (Spring Boot, Servlets)
-- **Python** (Pandas, NumPy, PySpark, Matplotlib, Seaborn)
-- **SQL** (MySQL, Google BigQuery)
+## 🧠 Skills Snapshot
 
-### **Big Data & Cloud Technologies**
-- **Hadoop**, **Hive**
-- **Google Cloud Platform (GCP)**
-- **Google BigQuery**
+### 🛠 Programming & Data Analysis
+- **Python** – Pandas, NumPy, PySpark, Matplotlib, Seaborn
+- **SQL** – MySQL, BigQuery
 
-### **Tools & Other Technologies**
-- **Javalin**, **React.js** (learning)
-- **mysql-connector-python**
-- **Jupyter Notebook**, **VS Code**, **VirtualBox**
+### ☁️ Cloud & Big Data Technologies
+- **Google Cloud Platform (GCP)** – Dataflow, BigQuery, Cloud Composer, Pub/Sub
+- **Apache Beam**, **Apache Airflow**, **Hadoop**, **Hive**, **Spark**
 
-## 📂 My Projects
+### 🔧 Tools & Other Technologies
+- Git, GitHub, Jupyter Notebook, VirtualBox
+- HTML, CSS, JavaScript
+- mysql-connector-python
 
-I’m currently working on various projects, including:
+---
 
-1. **UAE Used Cars Dataset Analysis**  
-   Analyzing the pricing patterns and market insights of used cars in the UAE using Python, MySQL, and data visualization techniques.
+## 📂 Projects
 
-2. **Beverage Sales Analysis using Hadoop & Hive**  
-   A comprehensive data analysis project leveraging **Hadoop** and **Hive** to explore beverage sales data, with insights generated using **PySpark**.
+### 🔸 ETL Pipeline on Google Cloud (Revature Portfolio Project)
+- Developed an automated ETL pipeline using GCP services to process CSV data.
+- Used Airflow for orchestration, Pub/Sub for triggering, and Dataflow (Apache Beam) for transformation before loading into BigQuery.
+
+### 🔸 Beverage Sales Data Analysis
+- Analyzed beverage sales using Hadoop FS, Hive, PySpark, and BigQuery.
+- Processed large datasets, cleaned and modeled data, and built visualizations for trend insights.
 
 ---
 
 ## 🚀 Let’s Connect
 
-Feel free to check out my repositories, explore my projects, or reach out if you’re interested in collaborating on any tech-related projects!
+Feel free to explore my projects and reach out if you’re interested in collaboration or discussing tech.
+
+📧 Email: [naikritesh4312@gmail.com](mailto:naikritesh4312@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ritesh-naik-39080325a) | [GitHub](https://github.com/NaikRitesh)
